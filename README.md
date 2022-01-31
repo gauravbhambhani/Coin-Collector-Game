@@ -1,2 +1,4 @@
 # Game-Development
-I make games too!
+A red ball in a garden, which can collect coins!
+
+
